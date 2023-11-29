@@ -7,7 +7,8 @@ Paste those values into the config.json then run the main.py file. It will autom
 You will get 2 chances to skip removing an item. I am not responsible if you remove a hard-earned Infamous Reward. 
 You may disable certain items from being scanned by changing the "True" flag in the items.json file to "False" (Must be capitalized).
 
-
+NOT ALL ITEMS CAN BE REMOVED. The way I remove items is by flagging them as consumed. This used to work fine at launch but they have slowly changed
+some items to not be consumable anymore.
 
 Requirements: Python 3.x
 
